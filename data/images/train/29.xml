@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized</folder>
+	<filename>29.jpg</filename>
+	<path>/Users/nikochin/ops/images/bills/resized/29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>receipt_bill</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>103</ymin>
+			<xmax>520</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>
